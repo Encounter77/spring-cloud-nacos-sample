@@ -1,0 +1,13 @@
+.idea
+/spring-cloud-nacos-sample-consumer/HELP.md
+/spring-cloud-nacos-sample-api/target/
+/spring-cloud-nacos-sample-consumer/mvnw
+/spring-cloud-nacos-sample-consumer/mvnw.cmd
+/spring-cloud-nacos-sample-provider/.mvn/
+/spring-cloud-nacos-sample-consumer/.mvn/
+/spring-cloud-nacos-sample-provider/target/
+/spring-cloud-nacos-sample-provider/HELP.md
+/spring-cloud-nacos-sample-provider/mvnw
+/spring-cloud-nacos-sample-provider/mvnw.cmd
+/spring-cloud-nacos-sample-consumer/target/
+/spring-cloud-nacos-sample.iml
